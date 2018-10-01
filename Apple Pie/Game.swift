@@ -20,7 +20,7 @@ struct Game {
         }
         
     }
-}
+
 
 
 var formattedWord: String {
@@ -34,5 +34,5 @@ var formattedWord: String {
     }
     return guessedWord
 }
-
+}
 
